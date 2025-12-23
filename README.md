@@ -18,6 +18,15 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 
 6.	Multimeter	---	1
 
+
+   
+
+
+
+
+
+
+
 **THEORY:**
 
 **THEVENIN’S THEOREM:**
@@ -51,6 +60,11 @@ Thevenin’s equivalent circuit
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
 
+
+<img width="327" height="606" alt="image" src="https://github.com/user-attachments/assets/20eaabd5-2b65-4296-96e2-5dda0d5672a8" />
+
+
+
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
@@ -78,3 +92,29 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+
+**TABULAR COLUMN**
+
+<img width="335" height="398" alt="image" src="https://github.com/user-attachments/assets/7d6f328b-4004-4bea-b9cb-f7172486d209" />
+
+
+
+**MODEL CALCULATION**
+
+
+<img width="301" height="156" alt="image" src="https://github.com/user-attachments/assets/431e9b79-457d-4d57-861e-b4fd9c12a463" />
+
+
+
+**THEORETICAL CALCULATION**
+
+<img width="345" height="517" alt="image" src="https://github.com/user-attachments/assets/1e2d5d65-3ae3-472d-9867-d450f65fc7a6" />
+
+
+
+<img width="313" height="429" alt="image" src="https://github.com/user-attachments/assets/ccc49976-9a78-4990-902a-fcb773c234fc" />
+
+
+
+
