@@ -112,8 +112,15 @@ Thevenin’s equivalent circuit
 <img width="345" height="517" alt="image" src="https://github.com/user-attachments/assets/1e2d5d65-3ae3-472d-9867-d450f65fc7a6" />
 
 
+**MARK SPLIT UP:**
+
 
 <img width="313" height="429" alt="image" src="https://github.com/user-attachments/assets/ccc49976-9a78-4990-902a-fcb773c234fc" />
+
+
+**RESULT:**
+
+Thus, thevenins theorem verified theoratically and practically
 
 
 
